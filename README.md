@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/Model-GPT--4o--mini-green)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
+[![Show-and-Tell Video](https://img.youtube.com/vi/视频ID/0.jpg)](https://youtu.be/uOK5ZjSITv8)
 
 ## 📖 Project Overview
 
