@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/Model-GPT--4o--mini-green)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
+
+## YouTube Video
 [![Show-and-Tell Video](https://img.youtube.com/vi/uOK5ZjSITv8/0.jpg)](https://youtu.be/uOK5ZjSITv8)
 
 ## 📖 Project Overview
@@ -45,7 +47,7 @@ The project structure maps classical robotics components to game development cla
 
 Below is the visualized workflow of the agent's decision-making process, from perception to action.
 
-![Perceive-Reason-Act Loop](img/3_workflow_loop.png)
+![Perceive-Reason-Act Loop](img/3.png)
 
 ```mermaid
 graph LR
