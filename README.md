@@ -1,4 +1,4 @@
-# 🧠 Neuro-Dungeon: Teaching Embodied AI with LLMs
+# 🧠 Neuro-Dungeon: Teaching Embodied AI with LLMs (Course Project for CSCE7270)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VrterUvqb1dkVBapVrwPA_5Pf-X5HXDI?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
